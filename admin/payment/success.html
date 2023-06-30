@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Payment Success</title>
+  <!-- <meta http-equiv="refresh" content="5;url=https://localhost:8080/sms_fyp/admin/purchase_order/view_po.php"> -->
+</head>
+<body>
+  <h1>Payment Successful!</h1>
+  <p>Your payment has been successfully processed.</p>
+  <p>You will be redirected to the module in a few seconds...</p>
+  
+  <script>
+    // Optional: Display countdown timer
+    var count = 5;
+    var countdown = setInterval(function() {
+      document.getElementById("countdown").innerHTML = count;
+      count--;
+      if (count === 0) {
+        clearInterval(countdown);
+      }
+    }, 1000);
+  </script>
+  
+  <p>Redirecting in <span id="countdown">5</span> seconds...</p>
+</body>
+</html>

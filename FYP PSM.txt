@@ -1,0 +1,19 @@
+payment - QR/CREDIT CARD/ONLINE TRANSFER (TOYYIB PAY)
+*QR kena fikir flow mcm mana? either scan dgn device berasingan
+*or make it connected to e-wallet
+*credit card/online transfer dan boleh dapat A
+
+explore buat Mobile Apps or ensure bole buka dkt fon dgn saiz dia
+
+Available product, description tu tukar letak gambar product
+
+ADMIN
+-profile picture
+-link email (username, password)
+-finalize module sales, bo record
+
+
+AGENT/STAFF
+-forgot password (generate/send link email yg asal, username, pwd-staff)
+-finalize semua module
+
